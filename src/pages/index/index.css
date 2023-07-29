@@ -1,0 +1,16 @@
+.page_wrap {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page_wrap_share_btn {
+  margin-top:  40px;
+  width: 100%;
+}
+
+.page_wrap_canvas_btn {
+  margin-top:  40px;
+  width: 100%;
+}
